@@ -1,3 +1,1 @@
-Hello
-This is hello.txt file
---- Edit from new_branch
+Hello all!
